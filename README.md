@@ -25,6 +25,7 @@ Figure 2: Typing the box command in the URL
 Cloning a repository using the command line or a desktop interface
 -------------------------------------------------------------------
 To do this, you can use the official GitHub method to download a project, which is by cloning a repository. You may first have to install a GitHub client on your computer; there are clients with nice graphical user interfaces and clients that you control from the command line. In either case, you will need the complete URL of the repository you want to clone. You can get it from the code button by copying the URL in the clone under the HTTPs.
+
 Command line:
 --------------
 In the command line interface, first navigate to the folder where you want your clone of the repository, then type the command git clone, paste the URL behind it, and hit enter. If all goes well, the cloning process will start.
