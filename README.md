@@ -42,6 +42,15 @@ Figures 4 and 5: Using the desktop interface for cloning
 
 After performing the cloning process, you can now open the clone repository using software like Visual Studio Code by navigating to File from the top tab, selecting Open Folder, navigating to the clone folder, and clicking on Select Folder to open it. From there, you can edit and run the code by clicking Run from the top tab.
 
+![VS Code1](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/49656ae2-486a-4c0d-b849-e3816b9d462f)
+Figures 6: Select folder to run
 
-Figures 7, 8, and 9: Running the clone
+![VS Code2](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/fda3fc20-adad-4160-b3f2-7769b4ee338b)
+Figures 7: Navigate to run button
+
+![VS Code3](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/7dba83fd-683c-46ae-b4fc-2a43387692bd)
+Figures 8: Running the clone repository
+
+![VS Code4](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/026ff66c-b9dd-4d36-8962-e95ab10390df)
+Figures 9: Output clone repository
 
