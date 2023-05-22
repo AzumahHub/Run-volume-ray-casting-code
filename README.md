@@ -4,8 +4,8 @@ How to run codes available on Git or GitHub
 
 There are several ways to run code from GitHub; here we will look at two ways you can do this, which include:
 
-•	Opening it directly from the webpage
-•	Cloning a repository using the command line or a desktop interface
+1. Opening it directly from the webpage
+2. Cloning a repository using the command line or a desktop interface
 
 Opening it directly from the webpage:
 --------------------------------------
