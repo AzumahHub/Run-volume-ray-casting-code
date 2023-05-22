@@ -36,10 +36,12 @@ Desktop interface:
 -------------------
 From the GitHub webpage, you can click on Open with GitHub Desktop under the code button below the HTTPs box, or in the desktop interface, from the menu, select file, clone repository, browse to the destination folder, and paste the URL you copied before in the box labeled repository URL, and then click clone.
 
-![Desktop Interface1](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/64dae944-3afc-4d42-880d-c9202623316b)
-![Desktop Interface2](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/6867eb52-3ecc-43b8-9132-887b6ba38f96)
+![Desktop Interface1](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/abdd2a3f-3da2-4832-96b2-56893bc2037a)
+![Desktop Interface2](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/dd839b14-a11e-44e9-984b-13f1cc0c4cb7)
 Figures 4 and 5: Using the desktop interface for cloning
 
 After performing the cloning process, you can now open the clone repository using software like Visual Studio Code by navigating to File from the top tab, selecting Open Folder, navigating to the clone folder, and clicking on Select Folder to open it. From there, you can edit and run the code by clicking Run from the top tab.
 
+
+Figures 7, 8, and 9: Running the clone
 
