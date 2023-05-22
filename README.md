@@ -53,5 +53,7 @@ Figures 7: Navigate to run button
 Figures 8: Running the clone repository
 
 ![VS Code4](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/026ff66c-b9dd-4d36-8962-e95ab10390df)
-Figures 9: Output clone repository
+Figure 9: Output clone repository
 
+Code referenced from: https://github.com/RolandR/VolumeRayCasting.git
+-----------------------------------------------------------------------
