@@ -16,7 +16,7 @@ To open it in the same tab of the browser in which you got the code, you can pre
 ![Greater then   Dot](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/2d483de3-d159-488a-8aab-6ee3bab930b5)
 Figure 1: Using the greater than (>) and dot (.) symbols on your keyboard
 
-2.	Navigate to the URL just at github.com and change it to githubbox.com. The project would now be opened in a sandbox, the code would be loaded on the left side, and the output would now be loaded on the right side. So now you can make changes on the left side and verify them on the right side.
+2.	Navigate to the URL (https://github.com/RolandR/VolumeRayCasting) just at github.com and change it to githubbox.com (https://githubbox.com/RolandR/VolumeRayCasting). The project would now be opened in a sandbox, the code would be loaded on the left side, and the output would now be loaded on the right side. So now you can make changes on the left side and verify them on the right side.
 With the above process, you can open the code online from your browser rather than cloning it locally.
 
 ![Box](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/3e9fbdb8-5988-4129-9bda-079b59ec7113)
