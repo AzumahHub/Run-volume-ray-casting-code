@@ -12,3 +12,6 @@ Opening it directly from the webpage:
 If you want to run the code in order to see the output from the browser before making a decision to use it, here are two ways of doing it:
 1.	We usually clone the repository on our local machine and make the changes, but if you don't want to export the code to your local machine without knowing if it works, you don’t need to clone to your local machine; you can press the greater than symbol (>) on your keyboard, which will then open the repository on an online server as a new webpage in your browser. Here you can make any changes you want, then push the changes to your branch and export the code base.
 To open it in the same tab of the browser in which you got the code, you can press the dot (.) on your keyboard.
+
+![Greater then   Dot](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/2d483de3-d159-488a-8aab-6ee3bab930b5)
+Figure 1: Using the greater than (>) and dot (.) symbols on your keyboard
