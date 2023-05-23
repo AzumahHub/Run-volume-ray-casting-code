@@ -13,7 +13,7 @@ If you want to run the code in order to see the output from the browser before m
 1.	We usually clone the repository on our local machine and make the changes, but if you don't want to export the code to your local machine without knowing if it works, you don’t need to clone to your local machine; you can press the greater than symbol (>) on your keyboard, which will then open the repository on an online server as a new webpage in your browser. Here you can make any changes you want, then push the changes to your branch and export the code base.
 To open it in the same tab of the browser in which you got the code, you can press the dot (.) on your keyboard.
 
-![Greater then   Dot](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/2d483de3-d159-488a-8aab-6ee3bab930b5)
+![3](https://github.com/AzumahHub/Run-volume-ray-casting-code/assets/134083975/1a7b8539-a989-4310-a85f-90fdbb61a1d1)
 Figure 1: Using the greater than (>) and dot (.) symbols on your keyboard
 
 2.	Navigate to the URL (https://github.com/RolandR/VolumeRayCasting) just at github.com and change it to githubbox.com (https://githubbox.com/RolandR/VolumeRayCasting). The project would now be opened in a sandbox, the code would be loaded on the left side, and the output would now be loaded on the right side. So now you can make changes on the left side and verify them on the right side.
